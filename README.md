@@ -1,1 +1,1 @@
-# core-js.es6.ie11
+# CORE-JS - ES6 - IE11
