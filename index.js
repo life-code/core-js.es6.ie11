@@ -1,3 +1,3 @@
-require('modules/object');
-require('modules/array');
-require('modules/string');
+require('./modules/_object');
+require('./modules/_array');
+require('./modules/_string');
