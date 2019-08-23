@@ -7,6 +7,9 @@ npm install --save https://github.com/life-code/core-js.es6.ie11.git
 ```
 
 ## Usage
+```sh
+import 'core-js.es6.ie11';
+```
 
 ## License
 
