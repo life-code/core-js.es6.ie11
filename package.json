@@ -1,0 +1,19 @@
+{
+    "name": "core-js.es6.ie11",
+    "version": "1.0.0",
+    "description": "IE11 Compatibility",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/life-code/core-js.es6.ie11.git"
+    },
+    "keywords": [],
+    "author": "Vinicius Pugliesi <vinicius_pugliesi@outlook.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/life-code/core-js.es6.ie11/issues"
+    },
+    "homepage": "https://github.com/life-code/core-js.es6.ie11#readme",
+    "devDependencies": {}
+}
